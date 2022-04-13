@@ -382,6 +382,7 @@ button:focus,
 }
 .cllogo {
   max-height: 40px;
+  max-width: 250px;
 }
 
 /*-------------------
