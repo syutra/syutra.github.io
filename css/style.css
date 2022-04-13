@@ -379,6 +379,8 @@ button:focus,
 
 .cllist {
   display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .cllogo {
   max-height: 40px;
